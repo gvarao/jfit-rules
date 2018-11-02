@@ -6,6 +6,7 @@ System KPI rules collect the statistics from network devices, then analyze the d
 rules, where each rule is defined with a set of KPIs. Playbook contains routing engine cpu, routing engine memory, junos processes cpu, memory leak detection and system storage rules. Rules are defined with default variable values, which can be changed while deploying the playbook.
 
 
+
 ## Usage
 
 Apply the playbook to device-group under the playbooks section using healthbot GUI.
