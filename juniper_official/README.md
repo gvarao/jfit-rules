@@ -7,5 +7,5 @@ Playbooks for chassis, linecard, system, interface and protocols(bgp, lldp, rib)
 
 Rules are defined with default variable values, which can be changed while deploying the playbook.
 
-** Usage
+## Usage
 Apply the playbook to device-group under the playbooks section using the HealthBot GUI.
