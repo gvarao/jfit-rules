@@ -2,7 +2,7 @@
 #
  
 Contains readily consumable healthbot playbooks and rules which are specific to BGP neighbor key performance indicators(KPIs).
-BGP KPI rules collect the statistics from network devices then analyze the data and act. BGP KPI playbook is a set of rules,
+BGP KPI rules collect the statistics from network devices, then analyze the data and act. BGP KPI playbook is a set of rules,
 where each rule is defined with set of a KPIs. Playbook contains bgp session state, neighbor flap detection, received routes with static threshold, received routes wiht dynamic threshold rules. Rules are defined with default variable values, which can be changed while deploying the playbook.
 
 
